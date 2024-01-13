@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web App , Laravel , Vue**
 
-- 📫 How to reach me **yeminthway906@gmail.com**
+- 📫 How to reach me **mixurrymr@gmail.com**
 
 - 📄 Know about my experiences [https://mixurryrm.github.io/my-portfolio-website/image/ymt.pdf](https://mixurryrm.github.io/my-portfolio-website/image/ymt.pdf)
 
