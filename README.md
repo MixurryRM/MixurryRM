@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mixurryrm.github.io/my-portfolio-website/](https://mixurryrm.github.io/my-portfolio-website/)
 
-- 💬 Ask me about **Web App , Laravel , Vue**
+- 💬 Ask me about **Web App , Laravel **
 
 - 📫 How to reach me **mixurrymr@gmail.com**
 
