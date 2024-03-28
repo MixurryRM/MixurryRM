@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React , Python**
 
-- 👨‍💻 All of my projects are available at [https://mixurryrm.github.io/my-portfolio-website/](https://mixurryrm.github.io/my-portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://mixurryrm.github.io/my-portfolio-website/](https://mixurryrm.github.io/portfolio/)
 
 - 💬 Ask me about **Web App , Laravel **
 
 - 📫 How to reach me **mixurrymr@gmail.com**
 
-- 📄 Know about my experiences [https://mixurryrm.github.io/my-portfolio-website/image/ymt.pdf](https://mixurryrm.github.io/my-portfolio-website/image/ymt.pdf)
+- 📄 Know about my experiences [https://mixurryrm.github.io/my-portfolio-website/image/ymt.pdf](https://mixurryrm.github.io/portfolio/image/ymt.pdf)
 
 - ⚡ Fun fact **I think I am funny !**
 
