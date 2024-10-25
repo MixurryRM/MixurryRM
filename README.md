@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ye Min Thway</h1>
-<h3 align="center">A Back-end developer from Myanmar who is comfortable working with PHP framwork laravel and Realiable Performance, Optimized Speed, Data Security & Scalability to deliver exceptional customer experience.</h3>
+<h3 align="center">A Back-end developer from Myanmar who is comfortable working with PHP framwork Laravel and Realiable Performance, Optimized Speed, Data Security & Scalability to deliver exceptional customer experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mixurryrm&label=Profile%20views&color=0e75b6&style=flat" alt="mixurryrm" /> </p>
 
